@@ -1,19 +1,17 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [🕺 Dance to Debug 💃] 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## Basic Details; A revolutionary coding environment where your code won't run unless you dance!
 
 
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+### Team Name: [farhan team]
 
 ### Project Description
+Dance to Debug is an innovative web application that combines coding with physical activity. Users must perform a silly dance in front of their webcam before they can execute their code. This project makes debugging more fun, encourages movement during coding sessions, and creates a unique development experience!
+
 [2-3 lines about what your project does]
 
 ### The Problem (that doesn't exist)
